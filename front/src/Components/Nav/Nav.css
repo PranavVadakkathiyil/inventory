@@ -1,0 +1,48 @@
+
+.header{
+    width: 100%; 
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3.2vh;
+    
+    
+    border-bottom: 2px solid black;
+}
+.header .logo{
+    font-size: 30px;
+    font-weight: 800;
+    cursor: pointer;
+    padding-left: 6vw;
+    
+
+}
+.header .logo span{
+    color: #2660dc;
+}
+.header .right{
+    padding-right: 8vw;
+    font-weight: 600;
+    color: black;
+    display: flex;
+    padding-top: 2vh;
+    
+    
+
+
+}
+.date-time {
+    font-size: 18px;
+    margin-bottom: 10px;
+    display: flex;
+    gap: 2vw;
+  }
+  
+  .date {
+    font-weight: bold;
+  }
+  
+  .time {
+    font-style: italic;
+  }

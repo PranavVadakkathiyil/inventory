@@ -1,0 +1,165 @@
+
+.header{
+    width: 100%; 
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3.2vh;
+    
+    
+    border-bottom: 2px solid black;
+}
+.header .logo{
+    font-size: 30px;
+    font-weight: 800;
+    cursor: pointer;
+    padding-left: 6vw;
+
+}
+.header .logo span{
+    color: #2660dc;
+}
+.header .right{
+    padding-right: 8vw;
+    font-weight: 600;
+    color: black;
+
+
+}
+.content {
+    display: flex;
+    
+}
+.content .left{
+    
+    width: 60%;
+    background-color: #ffffff;
+    height: 88vh;
+    
+    
+}
+.content .left img{
+    width:100%;
+    height: 100%;
+
+    
+}
+.content .right{
+    width: 40%;
+    background-color: #ffffff;
+    height: 88vh;
+    padding-top:7vw ;
+}
+.signup-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 15px;
+    
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.3);
+  }
+  
+  .signup-form h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin: 10px 0;
+  }
+  .form-group span{
+    
+    font-size: 12px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    
+
+    background: #3d71e1;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background: #0056b3;
+  }
+.footer{
+    background-color:#000814; 
+    
+    padding: 20px;
+
+}
+.fleft{
+    color: aliceblue;
+    padding-right: 20rem;
+    margin-left: 6rem;
+}
+.ftop{
+    display: flex;
+    padding-top: 20px;
+}
+.footer .fright ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    margin-right: 200px;
+    padding-top: 50px;
+    
+    
+    
+}
+.footer .fright ul li{
+    
+    color: antiquewhite;
+    display: flex;
+    
+    border-radius: 10%;
+    padding: 10px;
+    cursor: pointer;
+
+}
+.footer .fright ul li:hover{
+    background-color: aliceblue;
+    color: #4286e4;
+}
+.footer svg{
+    font-size: 30px;
+    color: #4286e4;
+    
+}
+.bottom{
+    color:#4286e4;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.bottom span{
+    font-size: 40px;
+    color: aliceblue;
+    
+}
+footer .fright ul p{
+    color: aliceblue;
+    padding-top: 12px;
+}
+
+    
