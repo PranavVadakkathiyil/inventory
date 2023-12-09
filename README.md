@@ -22,9 +22,6 @@ Welcome to the Inventory Management System project! This web application is buil
 - **User Authentication**: Secure user authentication and authorization.
 - **Product Management**: Add, edit, and delete products in the inventory.
 - **Category Management**: Organize products by categories for better organization.
-- **Inventory Tracking**: Keep track of product quantities and update in real-time.
-- **User Roles**: Differentiate between admin and regular user roles.
-- **Search and Filter**: Easily find products with search and filter functionalities.
 - **Responsive Design**: User-friendly interface that works seamlessly on different devices.
 
 ## Technologies
