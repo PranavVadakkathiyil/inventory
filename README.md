@@ -1,6 +1,5 @@
 ## Inventory Management System
 
-![Project Logo](link_to_logo.png)
 
 ## Table of Contents
 
@@ -34,7 +33,7 @@ Welcome to the Inventory Management System project! This web application is buil
 - **Backend**: Node.js, Express
 - **Database**: MySQL
 - **Authentication**: JSON Web Tokens (JWT)
-- **Styling**: CSS, Bootstrap
+- **Styling**: CSS
 - **Version Control**: Git, GitHub
 
 ## Getting Started
@@ -46,4 +45,4 @@ To get started with the Inventory Management System, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/inventory-management-system.git
+   git clone https://github.com/PranavVadakkathiyil/inventory.git
