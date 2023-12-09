@@ -62,13 +62,13 @@ To get started with the Inventory Management System, follow these steps:
       cd back
       npm install
      
-####configuration
+## Configuration
    Set up the MySQL database:
 
    Create a new database name as inventory
    create two tables like signup and tabledata
 
-5. Usage
+## Usage
 
    for backend
    ```bash
