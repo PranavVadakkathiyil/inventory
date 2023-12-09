@@ -43,3 +43,47 @@ To get started with the Inventory Management System, follow these steps:
 
    ```bash
    git clone https://github.com/PranavVadakkathiyil/inventory.git
+2. Navigate to the project directory:
+
+      ```bash
+   cd inventory
+
+3. Install dependencies for both frontend and backend:
+   
+   for frontend
+     ```bash
+     
+      cd front
+      npm install
+   ```
+   for backend
+     ```bash
+     
+      cd back
+      npm install
+     
+4. Configuration of database
+   Set up the MySQL database:
+
+   Create a new database name as inventory
+   create two tables like signup and tabledata
+
+5. Usage
+
+   for backend
+   ```bash
+
+   cd back
+   npm start
+
+   ```
+   for frontend
+
+   ```bash
+
+   cd front
+   npm run dev
+   
+
+
+   
